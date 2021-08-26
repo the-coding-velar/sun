@@ -67,4 +67,6 @@ div{
 img01{
     x-position: 400px;
     y-position: 600px;
+    margin-bottom: 20px;
+    border-top: 12px solid green;
 }
