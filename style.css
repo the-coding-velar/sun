@@ -63,3 +63,8 @@ div{
     width:500px;
     overflow:auto;
 }
+
+img01{
+    x-position: 400px;
+    y-position: 600px;
+}
