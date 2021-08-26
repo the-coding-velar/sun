@@ -68,5 +68,6 @@ img#img01{
     x-position: 400px;
     y-position: 600px;
     margin-bottom: 100px;
-    border-top: 12px solid green;
+    border-top: 12px dotted red;
+    border-bottom: 12px dashed red;
 }
