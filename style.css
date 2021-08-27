@@ -66,6 +66,7 @@ div{
 
 img#img01{
     object-position: 200px 500px;
+    object-fit: none;
     margin-bottom: 100px;
     border-top: 6px dotted red;
     border-bottom: 6px dashed red;
