@@ -65,9 +65,9 @@ div{
 }
 
 img#img01{
-    x-position: 400px;
-    y-position: 600px;
+    position-x: 400px;
+    position-y: 600px;
     margin-bottom: 100px;
-    border-top: 12px dotted red;
-    border-bottom: 12px dashed red;
+    border-top: 6px dotted red;
+    border-bottom: 6px dashed red;
 }
