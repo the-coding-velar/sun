@@ -60,14 +60,15 @@ strong{
 div{
     background-color: rgb(230,230,230);
     height:600px;
-    width:500px;
+    width:600px;
     overflow:auto;
 }
 
 img#img01{
     object-position: 20px 50px;
     object-fit: none;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
     border-top: 6px dotted red;
     border-bottom: 6px dashed red;
+    overflow: auto;
 }
