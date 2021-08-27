@@ -65,8 +65,7 @@ div{
 }
 
 img#img01{
-    position-x: 400px;
-    position-y: 600px;
+    position: 400px 600px;
     margin-bottom: 100px;
     border-top: 6px dotted red;
     border-bottom: 6px dashed red;
