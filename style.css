@@ -66,6 +66,8 @@ div{
     height:600px;
     width:600px;
     overflow:auto;
+    margin: auto;
+    border:7px ridge rgb(168, 50, 151);
 }
 
 img#img01{
