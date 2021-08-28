@@ -10,16 +10,16 @@ text-transform: uppercase;
 text-decoration:none;
 background-color: rgb(170,100,255);
 text-align: justify;
-line-height: 50px;
-font-size: 50px;
+line-height: 60px;
+font-size: 60px;
 font-weight: bold;
-     margin:0px;
-     padding:7px;
-     border-top: 4px brown;
+margin:0px;
+padding: 9px;
+border-top: 4px brown;
 
 }
 #t2{
-    width: 64px;
+height: 64px;
 color: rgb(200,150,255);
 font-family: "jokerman";
 text-transform: uppercase;
@@ -72,7 +72,7 @@ img#img01{
     object-position: top left;
     object-fit: none;
     margin-bottom: 0px;
-    border-top: 6px dotted red;
+    border-top: 6px ridge red;
     border-bottom: 6px dashed red;
     overflow: auto;
 }
