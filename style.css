@@ -70,14 +70,15 @@ div{
     width:600px;
     overflow:auto;
     margin: auto;
-    border:7px ridge rgb(168, 50, 151);
+    border:7px dashed rgb(168, 50, 151);
 }
 
 img#img01{
     object-position: top left;
     object-fit: none;
     margin-bottom: 0px;
-    border-top: 6px ridge red;
-    border-bottom: 6px dashed red;
+    border: 6px ridge red;
     overflow: auto;
+    width:150px;
+    height: 200px;
 }
