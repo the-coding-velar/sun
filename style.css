@@ -15,8 +15,7 @@ font-size: 30px;
 font-weight: bold;
 margin:0px;
 padding: 9px;
-border-top: 4px solid brown;
-
+     
 }
 #t2{
 color: rgb(200,150,255);
@@ -30,7 +29,7 @@ font-size: 30px;
 font-weight: bold;
 margin:0px;
 padding: 9px;
-border-top: 4px solid brown;
+
 }
 a{
 text-decoration:none;
@@ -74,10 +73,10 @@ div{
 
 img#img01{
     object-position: top left;
-    object-fit: none;
+    object-fit: auto;
     margin-bottom: 0px;
     border: 6px ridge red;
     overflow: auto;
-    width:280px;
-    height: 280px;
+    width:200px;
+    height: 150px;
 }
