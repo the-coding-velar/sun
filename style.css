@@ -19,7 +19,6 @@ border-top: 4px solid brown;
 
 }
 #t2{
-height: 52px;
 color: rgb(200,150,255);
 font-family: "jokerman";
 text-transform: uppercase;
@@ -29,9 +28,9 @@ text-align: justify;
 line-height: 30px;
 font-size: 30px;
 font-weight: bold;
-border: 4px solid brown;
-    margin: 0px;
-    padding:9px;
+margin:0px;
+padding: 9px;
+border-top: 4px solid brown;
 }
 a{
 text-decoration:none;
@@ -79,6 +78,6 @@ img#img01{
     margin-bottom: 0px;
     border: 6px ridge red;
     overflow: auto;
-    width:150px;
-    height: 200px;
+    width:280px;
+    height: 280px;
 }
